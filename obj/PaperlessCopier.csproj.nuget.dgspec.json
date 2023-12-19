@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/PaperlessCopier.csproj": {}
+  },
+  "projects": {
+    "/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/PaperlessCopier.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/PaperlessCopier.csproj",
+        "projectName": "PaperlessCopier",
+        "projectPath": "/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/PaperlessCopier.csproj",
+        "packagesPath": "/Users/markotway/.nuget/packages/",
+        "outputPath": "/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/markotway/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[8.0.0, 8.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

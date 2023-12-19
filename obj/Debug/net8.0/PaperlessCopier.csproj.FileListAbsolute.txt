@@ -1,0 +1,14 @@
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/bin/Debug/net8.0/PaperlessCopier
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/bin/Debug/net8.0/PaperlessCopier.deps.json
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/bin/Debug/net8.0/PaperlessCopier.runtimeconfig.json
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/bin/Debug/net8.0/PaperlessCopier.dll
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/bin/Debug/net8.0/PaperlessCopier.pdb
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/PaperlessCopier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/PaperlessCopier.AssemblyInfoInputs.cache
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/PaperlessCopier.AssemblyInfo.cs
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/PaperlessCopier.csproj.CoreCompileInputs.cache
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/PaperlessCopier.dll
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/refint/PaperlessCopier.dll
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/PaperlessCopier.pdb
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/PaperlessCopier.genruntimeconfig.cache
+/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/obj/Debug/net8.0/ref/PaperlessCopier.dll
