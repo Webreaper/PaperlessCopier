@@ -1,2 +1,0 @@
-/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/bin/Release/net8.0/linux-x64/publish/PaperlessCopier.pdb
-/Users/markotway/LocalCloud/Development/PaperlessCopier/PaperlessCopier/bin/Release/net8.0/linux-x64/publish/PaperlessCopier
